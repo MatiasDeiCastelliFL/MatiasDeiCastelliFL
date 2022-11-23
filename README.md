@@ -5,7 +5,7 @@
 
 #### _Desarrollador junior donde me especializo mas desde la parte del back pero me gusta mucho también lo que es el tema de diseño web_
 
-
+![Descripción de la imagen](https://www.itpt.co.uk/wp-content/uploads/2022/02/Web-Application-Development-Full-Stack-Developer.png)
 
 
 
