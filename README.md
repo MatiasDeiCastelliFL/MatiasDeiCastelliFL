@@ -3,11 +3,9 @@
 
 # 💫 _**Sobre mi:**_
 
-#### _Desarrollador junior donde me especializo mas desde la parte del back pero me gusta mucho también lo que es el tema de diseño web_
+### _Desarrollador junior donde me especializo mas desde la parte del back pero me gusta mucho también lo que es el tema de diseño web_
 
-![Descripción de la imagen](https://www.itpt.co.uk/wp-content/uploads/2022/02/Web-Application-Development-Full-Stack-Developer.png)
-
-
+![Descripción de la imagen](https://www.neolo.com/blog/wp-content/uploads/2018/12/Fig-03-C%C3%B3mo-convertirse-en-un-desarrollador-web.jpg)
 
 ## 🌐 _Redes Sociales:_
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/matias.deicastelli) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](www.instagram.com/matiasdeicastelli/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matias-dei-castelli-59b811222/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/MatiasDeiCaste1) 
