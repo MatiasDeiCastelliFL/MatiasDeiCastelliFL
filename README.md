@@ -3,7 +3,7 @@
 
 # 💫 _**Sobre mi:**_
 
-### _Desarrollador junior donde me especializo mas desde la parte del back pero me gusta mucho también lo que es el tema de diseño web_
+### _Desarrollador junior introducido en el ámbito del desarrollo web con excelentes habilidades de manejo y utilización de una amplia gama de lenguajes al trabajar tales como javascript, html, css, incluyendo el empleo de herramientas de librería como react, boostrap, express, redux y sequalize. Soy una persona proactiva en busca una empresa para poder llevar al límite mis habilidades y competencias en el trabajo._
 
 ![Descripción de la imagen](https://www.neolo.com/blog/wp-content/uploads/2018/12/Fig-03-C%C3%B3mo-convertirse-en-un-desarrollador-web.jpg)
 
